@@ -6,3 +6,4 @@ contract_status_id,contract_status_description
 5,Fail - client rejection
 6,Fail - other
 7,Partial - client absence
+8,Fail - client absence
